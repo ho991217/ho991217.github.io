@@ -161,6 +161,11 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      use_kakao-sdk: true
 
 sass:
   style: compressed

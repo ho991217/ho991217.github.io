@@ -139,3 +139,11 @@ tail_includes:
   crossorigin="anonymous"
   async
 ></script>
+
+{% if page.use_kakao-sdk %}
+<script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script type="text/javascript">
+  Kakao.init("ab4a7d4dc0f017fc01cb0b0c87760b47");
+</script>
+<script src="/assets/js/custom/kakao-custom.min.js"></script>
+{% endif %}
