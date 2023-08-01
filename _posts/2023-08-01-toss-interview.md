@@ -1,7 +1,7 @@
 ---
 title: "토스 기술면접 회고"
-date: 2023-08-01 23:00:28 -0400
-categories: [Blog, interview]
+date: 2023-08-01 00:00:00 -0400
+categories: [Memo, interview]
 tags: [toss]
 ---
 
