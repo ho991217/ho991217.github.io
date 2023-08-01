@@ -4,6 +4,7 @@ date: 2023-07-21 08:26:28 -0400
 categories: [Blog, jekyll]
 tags: [jekyll, github, github.io]
 ---
+
 ### 토스 기술면접 회고
 
 토스 기술면접을 보고 왔다.<br>
@@ -26,4 +27,3 @@ tags: [jekyll, github, github.io]
 
 각 질문에 대한 답변은 각각의 게시글로 정리해보도록 하겠다.<br>
 이번 기회를 통해, 면접을 준비하는 방법에 대해 알게되었고, 면접을 보면서 내가 어떤 부분을 더 공부해야할지 알게되었다.<br>
-
