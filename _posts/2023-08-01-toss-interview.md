@@ -1,8 +1,8 @@
 ---
-title: "첫 게시글"
-date: 2023-08-01 23:26:28 -0400
-categories: [Blog, memo]
-tags: [interview, toss]
+title: "토스 기술면접 회고"
+date: 2023-07-21 08:26:28 -0400
+categories: [Blog, jekyll]
+tags: [jekyll, github, github.io]
 ---
 
 ### 토스 기술면접 회고
