@@ -2,7 +2,7 @@
 title: "토스 기술면접 회고"
 date: 2023-07-21 08:26:28 -0400
 categories: [Blog, jekyll]
-tags: [jekyll, github, github.io]
+tags: [toss]
 ---
 
 ### 토스 기술면접 회고
