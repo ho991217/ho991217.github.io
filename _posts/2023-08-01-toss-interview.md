@@ -3,6 +3,7 @@ title: "토스 기술면접 회고"
 date: 2023-08-01 00:00:00 -0400
 categories: [Memo, interview]
 tags: [toss]
+excerpt: "토스 기술면접을 보고 왔다."
 ---
 
 ### 토스 기술면접을 보니

@@ -1,8 +1,9 @@
 ---
 title: "히든클래스"
-date: 2023-08-02 00:00:00 -0400
+date: 2023-08-01 00:00:00 -0400
 categories: [Tech, javascript]
 tags: [javascript, hidden-class, v8, engine, array]
+excerpt: "V8 엔진에서의 히든클래스에 대해 알아보자."
 ---
 
 ### 자바스크립트가 배열의 크기를 지정하지 않고도 사용할 수 있는 이유
